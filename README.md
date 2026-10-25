@@ -16,8 +16,7 @@ This project explores the relationship between sleep, health, and daily lifestyl
 This is one of my hands-on data analytics projects, where I applied what I have been learning to turn raw data into a clear and useful visual story.
 
 ## Dashboard Overview
-
-Sleep, Health & Lifestyle Analysis Dashboard.png
+![Dashboard Overview](Sleep, Health& Lifestyle Analysis Dashboard.png)
 
 ## Author
 **Mohammad Tayyab Mehdi**
