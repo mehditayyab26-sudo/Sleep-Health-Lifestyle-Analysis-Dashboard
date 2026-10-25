@@ -17,7 +17,7 @@ This is one of my hands-on data analytics projects, where I applied what I have 
 
 ## Dashboard Overview
 
-(Sleep, Health & Lifestyle Analysis Dashboard.png)
+Sleep, Health & Lifestyle Analysis Dashboard.png
 
 ## Author
 **Mohammad Tayyab Mehdi**
